@@ -13,7 +13,7 @@ p {
 header {
     background-color: #CEB5B7;
     padding: 10px;
-    height: 120px;
+    height: 200px;
     border-radius: 5px;
 }
 
@@ -52,6 +52,6 @@ h2 {
 footer {
     background-color: #b9a4a5;
     padding: 10px;
-    height: 120px;
+    height: 200px;
     border-radius: 5px;
 }
